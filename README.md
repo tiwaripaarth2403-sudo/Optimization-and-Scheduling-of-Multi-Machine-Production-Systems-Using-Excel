@@ -1,0 +1,2 @@
+# Optimization-and-Scheduling-of-Multi-Machine-Production-Systems-Using-Excel
+Excel was used to optimize production cost and scheduling efficiency. Solver minimized total cost by optimally assigning product units across machines. Pivot Tables, Charts, and Slicers analyzed machine utilization and cost. Johnson’s Rule with VLOOKUP sequenced jobs across two machines, minimizing making time span and enhancing productivity.
