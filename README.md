@@ -50,4 +50,4 @@ Pivot Tables, Charts, and Slicers (Data analysis and visualization)
 Formulas: SUMPRODUCT, MIN, IF, VLOOKUP, RANK, SORT, FILTER, MAX, INDEX/MATCH
 Johnson’s Rule (Scheduling and sequencing)
 
-![preview]()
+![preview](https://github.com/tiwaripaarth2403-sudo/Optimization-and-Scheduling-of-Multi-Machine-Production-Systems-Using-Excel/blob/main/ss_1_data.png)
