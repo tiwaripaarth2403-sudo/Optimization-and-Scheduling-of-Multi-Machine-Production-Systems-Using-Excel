@@ -53,4 +53,5 @@ Johnson’s Rule (Scheduling and sequencing)
 ![preview](https://github.com/tiwaripaarth2403-sudo/Optimization-and-Scheduling-of-Multi-Machine-Production-Systems-Using-Excel/blob/main/ss_1_data.png)
 ![preview](https://github.com/tiwaripaarth2403-sudo/Optimization-and-Scheduling-of-Multi-Machine-Production-Systems-Using-Excel/blob/main/ss_2_summary.png)
 ![preview](https://github.com/tiwaripaarth2403-sudo/Optimization-and-Scheduling-of-Multi-Machine-Production-Systems-Using-Excel/blob/main/ss_3_analysis.png)
-![preview]()
+![preview](https://github.com/tiwaripaarth2403-sudo/Optimization-and-Scheduling-of-Multi-Machine-Production-Systems-Using-Excel/blob/main/ss_4_sequencing.png)
+
